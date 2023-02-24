@@ -1,6 +1,6 @@
 ## Oi Humano 👋
 
-Meu nome é Débora, sou Alagoana, amo música boa, linux, audiovisual e inclusão. Posso ter alguns repositórios aqui no github, usufrua se quiser!
+Meu nome é Débora, sou Alagoana, amo música boa, linux, audiovisual e inclusão. Posso ter alguns repositórios aqui no github, usufrua o quanto quiser!
 
 Formação em Redes de Computadores, gerência de servidores (linux e windows), redes wireless (com foco em cisco), adequação de segurança com a LGPD e ações de segurança na prática, como proteção de ativos, perícia forense e testes de intrusão.
 
